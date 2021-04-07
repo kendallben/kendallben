@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kendallben
-- 👀 I’m interested in music, photography, art, sports.
+- 👀 I’m interested in music, photography, art, and sports.
 - 🌱 I’m currently new to programming and I am learning Python.
 - 📫 How to reach me instagram @therealkjrobinson
 
